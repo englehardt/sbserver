@@ -1,0 +1,4 @@
+sb_key.txt
+node_modules/
+env.list
+.nyc_output

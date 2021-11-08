@@ -1,0 +1,6 @@
+.git
+node_modules/*
+*.log
+env.list
+.nyc_output
+sb_key.txt

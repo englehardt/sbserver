@@ -1,0 +1,18 @@
+{
+  "client": {
+    "clientId":       "yourcompanyname",
+    "clientVersion":  "1.5.2"
+  },
+  "listUpdateRequests": [{
+    "threatType":      "MALWARE",
+    "platformType":    "WINDOWS",
+    "threatEntryType": "URL",
+    "state":           "Gg4IBBADIgYQgBAiAQEoAQ==",
+    "constraints": {
+      "maxUpdateEntries":      2048,
+      "maxDatabaseEntries":    4096,
+      "region":                "US",
+      "supportedCompressions": ["RAW"]
+    }
+  }]
+}

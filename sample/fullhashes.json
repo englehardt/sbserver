@@ -1,0 +1,21 @@
+{
+  "client": {
+    "clientId":      "yourcompanyname",
+    "clientVersion": "1.5.2"
+  },
+  "clientStates": [
+    "ChAIARABGAEiAzAwMSiAEDABEAE=",
+    "ChAIAhABGAEiAzAwMSiAEDABEOgH"
+  ],
+  "threatInfo": {
+    "threatTypes":      ["MALWARE", "SOCIAL_ENGINEERING"],
+    "platformTypes":    ["WINDOWS"],
+    "threatEntryTypes": ["URL"],
+    "threatEntries": [
+      {"hash": "WwuJdQ=="},
+      {"hash": "771MOg=="},
+      {"hash": "5eOrwQ=="}
+    ]
+  }
+}
+
